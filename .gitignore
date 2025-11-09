@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.so
+venv/
+ENV/
+env/
+.DS_Store
+rdi_data_export.csv
+rdi_dashboard.html
+rdi_quality_report.xlsx
+*.log
+.env
